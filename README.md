@@ -1,4 +1,4 @@
-# ![Rendi Asyari](gif/banner.gif)
+# ![Rendi Asyari](gif/banner-github.gif)
 
 ## Hello World! I'am Rendi Asyari 👋
 
@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Google.Inc
 - 🌱 I’m currently learning JavaScript
+
+##### Skills
