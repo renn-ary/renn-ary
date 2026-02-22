@@ -1,4 +1,6 @@
-# Hello World! I'am Rendi Asyari 👋
+# ![Rendi Asyari](gif/banner.gif)
+
+## Hello World! I'am Rendi Asyari 👋
 
 <!--
 **renn-ary/renn-ary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Rendi Asyari](gif/banner.gif)
 
 - 🔭 I’m currently working on Google.Inc
 - 🌱 I’m currently learning JavaScript
