@@ -1,4 +1,4 @@
-# ![Rendi Asyari](gif/banner-github.gif)
+# ![Rendi Asyari](gif/banner2.gif)
 
 <!-- ## Hello World! I'am Rendi Asyari 👋
 
