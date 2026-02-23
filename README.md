@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hello World! My name is Rendi Asyari✋ and i'am from Indonesian</h1>
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ### 
@@ -38,14 +38,14 @@ Here are some ideas to get you started:
 <img align="right" height="200" src="image/p2.jpg"  />
 
 ###
-<table align="center">
+<table align="center" style="border-collapse: collapse;">
   <tr>
-    <td align="center">
+    <td align="center" style="padding-right: 20px; border: none;">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=js,html,css,wasm,react,nodejs,python,java&perline=4" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" style="padding-left: 20px; border: none;">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql,mongodb,docker,figma&perline=4" />
       </a>
