@@ -43,8 +43,6 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,react,deno,python,gitlab,laravel,php,postgres,redhat&perline=11" />
   </div>
 
-<br clear="both">
-
   <div>
     <img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,mysql,githubactions,docker,figma,ps,sqlite,tailwind,linux&perline=11" />
   </div>
