@@ -38,13 +38,15 @@ Here are some ideas to get you started:
 <img align="right" height="200" src="image/p2.jpg"  />
 
 ###
-<div align="left" style="display: flex; gap: 50px; padding: 20px;">
+<div align="left" style="display: flex; gap: 50px; margin: 20px;">
   <div>
-    <img src="https://skillicons.dev/icons?i=js,html,css,wasm,react,nodejs,python,java&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,react,deno,python,gitlab,laravel,php,postgres,redhat&perline=12" />
   </div>
 
+<br clear="both">
+
   <div>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql,mongodb,docker,figma&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,mysql,githubactions,docker,figma,ps,sqlite,tailwind,linux&perline=12" />
   </div>
 </div>
 
@@ -122,9 +124,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=100000&logoColor=white&style=for-the-badge" height="35"/>
-  <img src="https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4500&logoColor=white&style=for-the-badge" height="35"/>
-  <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=000000&logoColor=white&style=for-the-badge" height="35"/>
+  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=100000&logoColor=white&style=for-the-badge" height="38"/>
+  <img src="https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4500&logoColor=white&style=for-the-badge" height="38"/>
+  <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=000000&logoColor=white&style=for-the-badge" height="38"/>
 
 </div>
 
