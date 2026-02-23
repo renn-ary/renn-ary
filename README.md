@@ -22,12 +22,10 @@ Here are some ideas to get you started:
 <h1 align="center">Hello World! My name is Rendi Asyari✋ and i'am from Indonesian</h1>
 
 <h3>About Me</h3>
+<p>I'm Rendi, a Frontend Developer who enjoys crafting visually appealing and highly interactive web applications. I specialize in building responsive layouts, optimizing performance, and delivering smooth user experiences. Always curious, always learning — turning ideas into functional and beautiful interfaces.
+</p>
 
-<p>Frontend Developer focused on building responsive, accessible, and modern web interfaces.  
-
-Passionate about clean code, performance optimization, and creating engaging user experiences.  
-
-Currently exploring advanced JavaScript concepts and modern frontend ecosystems.</p>
+<p>Frontend Developer focused on building responsive, accessible, and modern web interfaces.  Passionate about clean code, performance optimization, and creating engaging user experiences.  Currently exploring advanced JavaScript concepts and modern frontend ecosystems.</p>
 
 ### 
 
