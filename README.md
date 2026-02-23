@@ -2,7 +2,6 @@
   <img src="gif/banner2.gif" width="100%" />
 </p>
 
-
 <!-- ## Hello World! I'am Rendi Asyari 👋
 
 <!--
@@ -30,7 +29,7 @@ Here are some ideas to get you started:
 
 <p>Frontend Developer focused on building responsive, accessible, and modern web interfaces.  Passionate about clean code, performance optimization, and creating engaging user experiences.  Currently exploring advanced JavaScript concepts and modern frontend ecosystems.</p>
 
-### 
+###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -64,6 +63,7 @@ Here are some ideas to get you started:
 <img align="right" height="200" src="image/p2.jpg"  />
 
 ###
+
 <div align="left" style="display: flex; gap: 80px;">
   <div>
     <img src="https://skillicons.dev/icons?i=js,html,css,python,gitlab,php,postgres,redhat,git,github,vscode,ubuntu,mysql,githubactions,docker,sqlite,linux&perline=11" />
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 
 #### Database
 
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" /> <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white" /> 
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" /> <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white" />
 
 <br clear="both">
 
