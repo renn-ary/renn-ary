@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hello World!
-<h2 align="center">My name is Rendi Asyari
+<h1 align="center">Hello World!<br>My name is Rendi Asyari</h1>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;UI+%2F+UX+Designer;Penetration+Testing" />
-</h2>
-</h1>
+</p>
+
 
 <h3>About Me</h3>
 <p>I'm Rendi, a Frontend Developer who enjoys crafting visually appealing and highly interactive web applications. I specialize in building responsive layouts, optimizing performance, and delivering smooth user experiences. Always curious, always learning — turning ideas into functional and beautiful interfaces.
