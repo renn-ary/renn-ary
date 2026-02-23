@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <img align="right" height="200" src="image/p2.jpg"  />
 
 ###
-<div align="left" style="display: flex; gap: 50px;">
+<div align="left" style="display: flex; gap: 50px; padding: 20px;">
   <div>
     <img src="https://skillicons.dev/icons?i=js,html,css,wasm,react,nodejs,python,java&perline=8" />
   </div>
