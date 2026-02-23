@@ -38,20 +38,16 @@ Here are some ideas to get you started:
 <img align="right" height="200" src="image/p2.jpg"  />
 
 ###
-<table align="left" style="border-collapse: collapse;">
-  <tr>
-    <td align="left" style="padding-right: 50px; border: none;">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,html,css,wasm,react,nodejs,python,java&perline=4" />
-      </a>
-    </td>
-    <td align="left" style=" border: none;">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql,mongodb,docker,figma&perline=4" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="left" style="display: flex; gap: 50px;">
+  <div>
+    <img src="https://skillicons.dev/icons?i=js,html,css,wasm,react,nodejs,python,java&perline=4" />
+  </div>
+
+  <div>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql,mongodb,docker,figma&perline=4" />
+  </div>
+</div>
+
 
 <!-- <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
