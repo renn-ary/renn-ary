@@ -45,7 +45,7 @@ Here are some ideas to get you started:
         <img src="https://skillicons.dev/icons?i=js,html,css,wasm,react,nodejs,python,java&perline=4" />
       </a>
     </td>
-    <td align="center" style="padding-left: 20px; border: none;">
+    <td align="center" style=" border: none;">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql,mongodb,docker,figma&perline=4" />
       </a>
