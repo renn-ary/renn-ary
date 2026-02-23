@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 #### Technologies
 
-<img align="right" height="150" src="image/p2.jpg"  />
+<img align="right" height="200" src="image/p2.jpg"  />
 
 ###
 
