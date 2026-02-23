@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 ### 
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=renn-ary&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=renn-ary&layout=compact&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=renn-ary&show_icons=true&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renn-ary&layout=compact&theme=dracula" height="150"/>
 </div>
 
 <br clear="both">
@@ -35,6 +35,20 @@ Here are some ideas to get you started:
 <img align="right" height="200" src="image/p2.jpg"  />
 
 ###
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,html,css,wasm,react,nodejs,python,java&perline=4" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql,mongodb,docker,figma&perline=4" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -112,6 +126,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=100000&logoColor=white&style=for-the-badge" height="35"/>
   <img src="https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4500&logoColor=white&style=for-the-badge" height="35"/>
   <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=000000&logoColor=white&style=for-the-badge" height="35"/>
+
 </div>
 
 <br clear="both">
