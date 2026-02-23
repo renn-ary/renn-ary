@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="gif/banner2.gif" width="100%" />
+  <img src="gif/banner3.gif" width="100%" />
 </p>
 
 <!-- ## Hello World! I'am Rendi Asyari 👋
