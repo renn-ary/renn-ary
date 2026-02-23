@@ -1,4 +1,4 @@
-name: Generate Pacman
+name: Generate Animations
 
 permissions:
   contents: write
@@ -12,11 +12,21 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Pacman Contribution Graph
+
+      # Generate Snake
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: renn-ary
+          outputs: dist/snake.svg
+
+      # Generate Pacman
+      - name: Generate Pacman
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: renn-ary
 
+      # Push semuanya ke output branch
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
