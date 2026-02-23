@@ -38,13 +38,9 @@ Here are some ideas to get you started:
 <img align="right" height="200" src="image/p2.jpg"  />
 
 ###
-<div align="left" style="display: flex; gap: 50px; margin: 20px;">
+<div align="left" style="display: flex; gap: 80px;">
   <div>
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,react,deno,python,gitlab,laravel,php,postgres,redhat&perline=11" />
-  </div>
-
-  <div>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,mysql,githubactions,docker,figma,ps,sqlite,tailwind,linux&perline=11" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,react,deno,python,gitlab,laravel,php,postgres,redhat,git,github,vscode,ubuntu,mysql,githubactions,docker,figma,ps,sqlite,tailwind,linux&perline=11" />
   </div>
 </div>
 
