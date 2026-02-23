@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ###
 <table align="left" style="border-collapse: collapse;">
   <tr>
-    <td align="left" style="padding-right: 20px; border: none;">
+    <td align="left" style="padding-right: 50px; border: none;">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=js,html,css,wasm,react,nodejs,python,java&perline=4" />
       </a>
