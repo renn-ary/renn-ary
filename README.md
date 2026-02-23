@@ -107,6 +107,14 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rennnn&theme=dracula" />
+</div>
+
+<br clear="both">
+
+###
+
+<div align="center">
   <a href="https://open.spotify.com/user/312bzgpfgsuh2mbtj3z7w3uzk4e4">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=312bzgpfgsuh2mbtj3z7w3uzk4e4count=5" />
   </a>
