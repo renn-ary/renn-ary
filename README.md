@@ -46,6 +46,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=000000&logoColor=white&style=for-the-badge" height="38"/>
 </div>
 
+<br clear="both">
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=renn-ary&show_icons=true&theme=dracula" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renn-ary&layout=compact&theme=dracula" height="150"/>
@@ -57,7 +61,7 @@ Here are some ideas to get you started:
 
 #### Technologies
 
-<img align="right" height="200" src="image/p2.jpg"  /> <br><img src="https://visitor-badge.laobi.icu/badge?page_id=renn-ary.renn-ary&left_color=black&right_color=blue" />
+<img align="right" height="200" src="image/p2.jpg"  />
 
 ###
 <div align="left" style="display: flex; gap: 80px;">
