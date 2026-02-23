@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 ###
 <div align="left" style="display: flex; gap: 50px;">
   <div>
-    <img src="https://skillicons.dev/icons?i=js,html,css,wasm,react,nodejs,python,java&perline=4" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,wasm,react,nodejs,python,java&perline=8" />
   </div>
 
   <div>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql,mongodb,docker,figma&perline=4" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql,mongodb,docker,figma&perline=8" />
   </div>
 </div>
 
