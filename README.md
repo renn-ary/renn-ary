@@ -20,9 +20,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hello World! My name is Rendi Asyari✋ and i'am from Indonesian</h1>
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+
+<h3>About Me</h3>
+
+<p>Frontend Developer focused on building responsive, accessible, and modern web interfaces.  
+
+Passionate about clean code, performance optimization, and creating engaging user experiences.  
+
+Currently exploring advanced JavaScript concepts and modern frontend ecosystems.</p>
 
 ### 
 
@@ -32,6 +37,8 @@ Here are some ideas to get you started:
 </div>
 
 <br clear="both">
+
+<h3>Skills</h3>
 
 #### Technologies
 
