@@ -57,10 +57,10 @@ Here are some ideas to get you started:
 
 <div align="left" style="display: flex; gap: 80px;">
   <div>
-    <img src="https://skillicons.dev/icons?i=js,html,css,python,php&perline=11" />
+    <img src="https://skillicons.dev/icons?i=js,gitlab,redhat,git,github,vscode,ubuntu,githubactions,docker,linux&perline=11" />
   </div>
 </div>
- 
+  
 #### Tool Stack
 
 <div align="left" style="display: flex; gap: 80px;">
