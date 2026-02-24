@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 <div align="left" style="display: flex; gap: 80px;">
   <div>
-    <img src="https://skillicons.dev/icons?i=js,html,css,wasm&perline=11" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,py,php&perline=11" />
   </div>
 </div>
   
