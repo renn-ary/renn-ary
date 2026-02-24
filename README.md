@@ -60,7 +60,7 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=js,html,css,python,php&perline=11" />
   </div>
 </div>
-
+ 
 #### Tool Stack
 
 <div align="left" style="display: flex; gap: 80px;">
