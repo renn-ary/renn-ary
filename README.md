@@ -44,6 +44,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=000000&logoColor=white&style=for-the-badge" height="38"/>
 </div>
 
+
 <br clear="both">
 
 <h3>Skills</h3>
@@ -56,7 +57,7 @@ Here are some ideas to get you started:
 
 <div align="left" style="display: flex; gap: 80px;">
   <div>
-    <img src="https://skillicons.dev/icons?i=js,html,css,python,gitlab,php,postgres,redhat,git,github,vscode,ubuntu,mysql,githubactions,docker,sqlite,linux&perline=11" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,python,php&perline=11" />
   </div>
 </div>
 
