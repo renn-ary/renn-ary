@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 style="font-size:50px;" align="center" >Hello World! My name is Rendi Asyari<p align="center">
+<h1 style="font-size:50px;" align="center" >Hello Friends! My name is Rendi Asyari<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;UI+%2F+UX+Designer;Penetration+Testing" />
 </p>
 </h1>
