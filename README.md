@@ -57,8 +57,7 @@ Here are some ideas to get you started:
 
 <div align="left" style="display: flex; gap: 80px;">
   <div>
-    <img src="https://skillicons.dev/icons?i=js,gitlab,redhatlinux,git,github,vscode,ubuntu,githubactions,docker,linux&perline=5" />
-
+    <img src="https://skillicons.dev/icons?i=bootstrap,deno,laravel,tailwind,react&perline=11" />
   </div>
 </div>
   
