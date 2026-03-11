@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <h1 style="font-size:50px;" align="center" >Hello Friends! My name is Rendi Asyari<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;UI+%2F+UX+Designer;Penetration+Testing" />
 </p>
@@ -94,6 +95,13 @@ Here are some ideas to get you started:
 #### UI / UX Designer
 
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" /> <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" /> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" /> <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white" /> <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" />
+
+
+<br clear="both">
+
+#### UI / UX Designer
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renn-ary&show_icons=true)
 
 <br clear="both">
 
