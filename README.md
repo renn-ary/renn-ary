@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 style="font-size:50px;" align="center" >Hello Friends! My name is Rendi Asyari<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;UI+%2F+UX+Designer;Penetration+Testing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00abff&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;UI+%2F+UX+Designer;Penetration+Testing" />
 </p>
 </h1>
 
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 <div align="left" style="display: flex; gap: 80px;">
   <div>
-    <img src="https://skillicons.dev/icons?i=gitlab,redhat,git,github,vscode,ubuntu,githubactions,docker,linux&perline=11" />
+    <img src="https://skillicons.dev/icons?i=gitlab,redhat,git,github,vscode,ubuntu,githubactions,docker,linux,vim,ps,pycharm&perline=11" />
   </div>
 </div>
 
@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 
 <div align="left" style="display: flex; gap: 80px;">
   <div>
-    <img src="https://skillicons.dev/icons?i=bootstrap,deno,laravel,tailwind,react&perline=11" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,laravel,tailwind,react,nginx,opencv,wordpress&perline=11" />
   </div>
 </div>
 
@@ -99,9 +99,21 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
+#### My Wakatime Stats
+
+<img 
+src="https://github-readme-stats.vercel.app/api/wakatime?username=rennnn&theme=dark"
+width="100%"
+/>
+
+<br clear="both">
+
 #### My Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renn-ary&show_icons=true&theme=transparent)
+<img 
+src="https://github-readme-stats.vercel.app/api?username=renn-ary&show_icons=true&theme=dark"
+width="100%"
+/>
 
 <br clear="both">
 
