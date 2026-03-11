@@ -102,7 +102,7 @@ Here are some ideas to get you started:
 #### My Wakatime Stats
 
 <img 
-src="https://github-readme-stats.vercel.app/api/wakatime?username=rennnn&bg_color=00abff&border_color=0077b6&title_color=ffffff&text_color=ffffff"
+src="https://github-readme-stats.vercel.app/api/wakatime?username=rennnn&bg_color=00abff&border_color=0077b6&title_color=ffffff&text_color=ffffff&progress_color=0c1117"
 width="100%"
 />
 
